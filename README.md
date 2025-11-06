@@ -263,7 +263,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name - [huaritex](https://github.com/Huaritex) - huaritex@gmail.com
 
 Project Link: [https://github.com/Huaritex/Deep-Learning-Cybersecurity-Threat-Detection](https://github.com/Huaritex/Deep-Learning-Cybersecurity-Threat-Detection)
 
