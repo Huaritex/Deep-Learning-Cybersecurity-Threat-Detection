@@ -1,5 +1,7 @@
 # 🛡️ Deep Learning for Cybersecurity Threat Detection
 
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![Español](https://img.shields.io/badge/lang-Español-red.svg)](README_ES.md)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -98,8 +100,8 @@ Sigmoid (via BCEWithLogitsLoss)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/deep-learning-cybersecurity.git
-cd deep-learning-cybersecurity
+git clone https://github.com/Huaritex/Deep-Learning-Cybersecurity-Threat-Detection.git
+cd Deep-Learning-Cybersecurity-Threat-Detection
 ```
 
 2. **Create a virtual environment** (recommended)
@@ -263,7 +265,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/deep-learning-cybersecurity](https://github.com/yourusername/deep-learning-cybersecurity)
+Project Link: [https://github.com/Huaritex/Deep-Learning-Cybersecurity-Threat-Detection](https://github.com/Huaritex/Deep-Learning-Cybersecurity-Threat-Detection)
 
 ## 📄 License
 
