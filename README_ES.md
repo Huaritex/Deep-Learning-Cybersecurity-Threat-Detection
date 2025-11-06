@@ -268,7 +268,7 @@ ipykernel>=6.0.0
 
 ## 📧 Contacto
 
-Tu Nombre - [@tutwitter](https://twitter.com/tutwitter) - tu.email@example.com
+Tu Nombre - [huaritex](https://github.com/Huaritex) - huaritex@gmail.com
 
 Enlace del Proyecto: [https://github.com/Huaritex/Deep-Learning-Cybersecurity-Threat-Detection](https://github.com/Huaritex/Deep-Learning-Cybersecurity-Threat-Detection)
 
